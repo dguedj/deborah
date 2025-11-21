@@ -13,7 +13,7 @@ J'aime résoudre des problèmes complexes grâce à la data, collaborer en équi
 <table>
   <tr>
     <th align="center" width="25%"><b>Data Science</b></th>
-    <th align="center" width="25%"><b>Outils & BDD</b></th>
+    <th align="center" width="25%"><b>BDD</b></th>
     <th align="center" width="25%"><b>Web</b></th>
     <th align="center" width="25%"><b>Système</b></th>
   </tr>

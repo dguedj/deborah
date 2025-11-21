@@ -36,7 +36,6 @@ J'aime résoudre des problèmes complexes grâce à la data, collaborer en équi
       <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/C-00599?style=for-the-badge&logo=c&logoColor=white" alt="C"/><br/>
       <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
     </td>
   </tr>
